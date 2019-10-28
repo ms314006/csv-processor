@@ -1,5 +1,8 @@
 # csv-processor
 
+[![Build Status](https://travis-ci.com/ms314006/csv-processor.svg?branch=master)](https://travis-ci.com/ms314006/csv-processor)
+[![Coverage Status](https://coveralls.io/repos/github/ms314006/csv-processor/badge.svg?branch=master)](https://coveralls.io/github/ms314006/csv-processor?branch=master)
+
 Hello! csv-processor is a package, it can help easy handle data and would it to be CSV file 🙌!
 
 ## Get Started

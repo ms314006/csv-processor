@@ -1,0 +1,19 @@
+{
+  "name": "csv-processor",
+  "version": "1.2.5",
+  "description": "Easy generater CSV File",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls"
+  },
+  "keywords": [
+    "CSV"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "^3.0.7",
+    "jest": "^24.9.0"
+  }
+}

@@ -1,8 +1,12 @@
 {
   "name": "csv-processor",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Easy generater CSV File",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ms314006/csv-processor"
+  },
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls"
